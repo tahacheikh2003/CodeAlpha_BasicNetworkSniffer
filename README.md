@@ -26,4 +26,10 @@ identifies common protocols such as TCP, UDP, and ICMP, and displays a payload p
 
 ## Output
 The script captures 20 packets and saves them into:
+
+### What I Learned
+Packet sniffing with Scapy
+Basic protocol inspection (TCP, UDP, ICMP)
+Extracting IP and port information
+Saving captured packets to PCAP format
 capture_task1.pcap
